@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/React-Slider-App/static/css/main.d5851acc.chunk.css",
+    "main.js": "/React-Slider-App/static/js/main.12ca71d2.chunk.js",
+    "main.js.map": "/React-Slider-App/static/js/main.12ca71d2.chunk.js.map",
+    "runtime-main.js": "/React-Slider-App/static/js/runtime-main.295145f8.js",
+    "runtime-main.js.map": "/React-Slider-App/static/js/runtime-main.295145f8.js.map",
+    "static/js/2.499679d6.chunk.js": "/React-Slider-App/static/js/2.499679d6.chunk.js",
+    "static/js/2.499679d6.chunk.js.map": "/React-Slider-App/static/js/2.499679d6.chunk.js.map",
+    "static/js/3.842c240c.chunk.js": "/React-Slider-App/static/js/3.842c240c.chunk.js",
+    "static/js/3.842c240c.chunk.js.map": "/React-Slider-App/static/js/3.842c240c.chunk.js.map",
+    "index.html": "/React-Slider-App/index.html",
+    "static/css/main.d5851acc.chunk.css.map": "/React-Slider-App/static/css/main.d5851acc.chunk.css.map",
+    "static/js/2.499679d6.chunk.js.LICENSE.txt": "/React-Slider-App/static/js/2.499679d6.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.295145f8.js",
+    "static/js/2.499679d6.chunk.js",
+    "static/css/main.d5851acc.chunk.css",
+    "static/js/main.12ca71d2.chunk.js"
+  ]
+}
